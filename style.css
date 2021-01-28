@@ -1,0 +1,7 @@
+
+.main{display:flex;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);}
+.inputText{display:none;border-radius:14px;padding:4px;font-weight: bold;color: green;}
+.inputText:focus{outline:none;}
+.searchBtn{padding:6px;font-size:20px;color:#fff;background:green;border-radius:50%;cursor: pointer;}
+/* .main:hover > .inputText{display:block;} */
+center h4{margin:20%}
